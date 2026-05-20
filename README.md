@@ -318,7 +318,7 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 
 **Mani Basir**  
-Junior Machine Learning Developer
+ Machine Learning Developer
 
 - **LinkedIn:** [linkedin.com/in/mani-basir](https://linkedin.com/in/mani-basir)
 - **Telegram:** [@manibasir](https://t.me/manibasir)
