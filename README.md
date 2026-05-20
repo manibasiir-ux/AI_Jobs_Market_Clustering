@@ -352,22 +352,27 @@ Correlation Heatmap
 
 Scenario 1 — Hiring Clusters
 
+<img width="401" height="279" alt="hiring_cluster_distribution" src="https://github.com/user-attachments/assets/e07bc0cd-9d2c-4668-8a1e-29a191fad5f0" />
 
 
 Scenario 2 — Compensation Clusters
 
+<img width="401" height="279" alt="compensation_cluster_distribution" src="https://github.com/user-attachments/assets/23764615-7e5f-401a-9892-c35aa46cd0ab" />
 
 
 Salary Distribution by Compensation Cluster
 
+<img width="618" height="394" alt="salary_distribution" src="https://github.com/user-attachments/assets/d4d83350-155a-4fe3-9d0a-3e622dbaa6c5" />
 
 
 Scenario 3 — Risk vs Satisfaction
 
+<img width="581" height="394" alt="risk_vs_satisfaction" src="https://github.com/user-attachments/assets/d383b353-f2a1-4677-8545-d259e4981b0f" />
 
 
 Scenario 3 — Clustering View
 
+<img width="494" height="394" alt="scenario3_clusters" src="https://github.com/user-attachments/assets/738d9b75-fc3b-4d21-8de8-163103a5d2c0" />
 
 
 
@@ -376,11 +381,8 @@ Scenario 3 — Clustering View
 🗃️ Repository Structure
 
 AI_Jobs_Market_Clustering/
-├── data/
-│   ├── raw/
-│   │   └── global_ai_jobs.csv
-│   └── processed/
-│       └── clustered_global_ai_jobs.csv
+├──  global_ai_jobs.csv
+│   
 ├── reports/
 │   ├── figures/
 │   └── final_report.md
@@ -398,7 +400,7 @@ AI_Jobs_Market_Clustering/
 
 1. Clone the repository
 
-git clone https://github.com/manibasir/AI_Jobs_Market_Clustering.git
+git clone https://github.com/manibasiir-ux/AI_Jobs_Market_Clustering.git
 cd AI_Jobs_Market_Clustering
 
 2. Install dependencies
