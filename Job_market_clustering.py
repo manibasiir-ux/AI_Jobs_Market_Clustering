@@ -74,7 +74,7 @@ def section(title):
 
 section("LOADING DATASET")
 
-DF = pd.read_csv('global_ai_jobs.csv')
+DF = pd.read_csv('global_ai_jobs')
 
 print("Dataset Shape:", DF.shape)
 
